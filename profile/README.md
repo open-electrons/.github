@@ -2,6 +2,8 @@
 
 You have reached the open-electrons organization page. This is an attempt to provice a reference implementation to the OCPP Protocol, add layers and the whole ecosystem around e-mobility.
 
+I'm just startring out, if you are interested to collaborate, please feel free to drop me a message.
+
 <!--
 
 **Here are some ideas to get you started:**
