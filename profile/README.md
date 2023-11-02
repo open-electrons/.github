@@ -2,7 +2,7 @@
 
 You have reached the open-electrons organization page. This is an attempt to provice a reference implementation to the OCPP, OCPI and whatever protocol that the e-mobility industry might have and bring along. In additional to that, the goal is to build the whole ecosystem around e-mobility, be it charging, payments, provisioning, smart contracts, flexibility services, demand response, load prediction & optimization etc., etc.,...
 
-I'm just startring out, if you are interested to collaborate, please feel free to drop me a message [here](https://github.com/orgs/open-electrons/discussions/1). Please also take a look at the [documentation](https://open-electrons.github.io/home/) for more information! Most of it is still a WIP!
+I'm just startring out, if you are interested to collaborate, please feel free to drop me a message [here](https://github.com/orgs/open-electrons/discussions/1). Please also take a look at the [documentation](https://open-electrons.github.io/home/) for more information! Most of it is still a WIP and a supporting hand would be of great help.
 
 <!--
 
